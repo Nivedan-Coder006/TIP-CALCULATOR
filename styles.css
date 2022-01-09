@@ -1,0 +1,49 @@
+*{
+    background-color: aquamarine;
+}
+
+.amount-class{
+    display: flex;
+    
+}
+#submit{
+    color:black;
+    background-color: white;
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+#submit:hover{
+    color:black;
+    background-color: green;
+    border: 3px solid black;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+.amount-class>input{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 25px;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.amount-class>label{
+    color:coral;
+    font-size: 20px;
+}
+.h1{
+    color:brown;
+}
+#result{
+    color:blueviolet;
+    font-size: 25px;
+
+}
+#Percentage{
+    margin-left: 27.5px;
+}
+#People{
+    margin-left: 61px;
+}
